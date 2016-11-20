@@ -1,0 +1,10 @@
+c:\users\baile\onedrive\documents\visual studio 2015\Projects\KillButton\KillButton\bin\Debug\KillButton.exe.config
+c:\users\baile\onedrive\documents\visual studio 2015\Projects\KillButton\KillButton\bin\Debug\KillButton.exe
+c:\users\baile\onedrive\documents\visual studio 2015\Projects\KillButton\KillButton\bin\Debug\KillButton.pdb
+c:\users\baile\onedrive\documents\visual studio 2015\Projects\KillButton\KillButton\bin\Debug\KillButton.xml
+c:\users\baile\onedrive\documents\visual studio 2015\Projects\KillButton\KillButton\obj\Debug\KillButton.mainForm.resources
+c:\users\baile\onedrive\documents\visual studio 2015\Projects\KillButton\KillButton\obj\Debug\KillButton.Resources.resources
+c:\users\baile\onedrive\documents\visual studio 2015\Projects\KillButton\KillButton\obj\Debug\KillButton.vbproj.GenerateResource.Cache
+c:\users\baile\onedrive\documents\visual studio 2015\Projects\KillButton\KillButton\obj\Debug\KillButton.exe
+c:\users\baile\onedrive\documents\visual studio 2015\Projects\KillButton\KillButton\obj\Debug\KillButton.xml
+c:\users\baile\onedrive\documents\visual studio 2015\Projects\KillButton\KillButton\obj\Debug\KillButton.pdb
